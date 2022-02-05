@@ -1,0 +1,45 @@
+C:\Users\miche\OneDrive - Università degli Studi di Parma\Michele Bandini\Universita\UniprRacingTeam\Dashboard\Remote_Dashborard\WinFormsApp1\bin\Debug\netcoreapp3.1\Dashboard.exe
+C:\Users\miche\OneDrive - Università degli Studi di Parma\Michele Bandini\Universita\UniprRacingTeam\Dashboard\Remote_Dashborard\WinFormsApp1\bin\Debug\netcoreapp3.1\Dashboard.deps.json
+C:\Users\miche\OneDrive - Università degli Studi di Parma\Michele Bandini\Universita\UniprRacingTeam\Dashboard\Remote_Dashborard\WinFormsApp1\bin\Debug\netcoreapp3.1\Dashboard.runtimeconfig.json
+C:\Users\miche\OneDrive - Università degli Studi di Parma\Michele Bandini\Universita\UniprRacingTeam\Dashboard\Remote_Dashborard\WinFormsApp1\bin\Debug\netcoreapp3.1\Dashboard.runtimeconfig.dev.json
+C:\Users\miche\OneDrive - Università degli Studi di Parma\Michele Bandini\Universita\UniprRacingTeam\Dashboard\Remote_Dashborard\WinFormsApp1\bin\Debug\netcoreapp3.1\Dashboard.dll
+C:\Users\miche\OneDrive - Università degli Studi di Parma\Michele Bandini\Universita\UniprRacingTeam\Dashboard\Remote_Dashborard\WinFormsApp1\bin\Debug\netcoreapp3.1\Dashboard.pdb
+C:\Users\miche\OneDrive - Università degli Studi di Parma\Michele Bandini\Universita\UniprRacingTeam\Dashboard\Remote_Dashborard\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\Users\miche\OneDrive - Università degli Studi di Parma\Michele Bandini\Universita\UniprRacingTeam\Dashboard\Remote_Dashborard\WinFormsApp1\obj\Debug\netcoreapp3.1\Dashboard.csproj.GenerateResource.cache
+C:\Users\miche\OneDrive - Università degli Studi di Parma\Michele Bandini\Universita\UniprRacingTeam\Dashboard\Remote_Dashborard\WinFormsApp1\obj\Debug\netcoreapp3.1\Dashboard.AssemblyInfoInputs.cache
+C:\Users\miche\OneDrive - Università degli Studi di Parma\Michele Bandini\Universita\UniprRacingTeam\Dashboard\Remote_Dashborard\WinFormsApp1\obj\Debug\netcoreapp3.1\Dashboard.AssemblyInfo.cs
+C:\Users\miche\OneDrive - Università degli Studi di Parma\Michele Bandini\Universita\UniprRacingTeam\Dashboard\Remote_Dashborard\WinFormsApp1\obj\Debug\netcoreapp3.1\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\miche\OneDrive - Università degli Studi di Parma\Michele Bandini\Universita\UniprRacingTeam\Dashboard\Remote_Dashborard\WinFormsApp1\obj\Debug\netcoreapp3.1\Dashboard.dll
+C:\Users\miche\OneDrive - Università degli Studi di Parma\Michele Bandini\Universita\UniprRacingTeam\Dashboard\Remote_Dashborard\WinFormsApp1\obj\Debug\netcoreapp3.1\Dashboard.pdb
+C:\Users\miche\OneDrive - Università degli Studi di Parma\Michele Bandini\Universita\UniprRacingTeam\Dashboard\Remote_Dashborard\WinFormsApp1\obj\Debug\netcoreapp3.1\Dashboard.genruntimeconfig.cache
+C:\Users\miche\OneDrive - Università degli Studi di Parma\Michele Bandini\Universita\UniprRacingTeam\Dashboard\Remote_Dashborard\WinFormsApp1\obj\Debug\netcoreapp3.1\Dashboard.csproj.AssemblyReference.cache
+C:\Users\miche\OneDrive - Università degli Studi di Parma\Elettronica\Software\Remote_Dashborard\WinFormsApp1\bin\Debug\netcoreapp3.1\Dashboard.exe
+C:\Users\miche\OneDrive - Università degli Studi di Parma\Elettronica\Software\Remote_Dashborard\WinFormsApp1\bin\Debug\netcoreapp3.1\Dashboard.deps.json
+C:\Users\miche\OneDrive - Università degli Studi di Parma\Elettronica\Software\Remote_Dashborard\WinFormsApp1\bin\Debug\netcoreapp3.1\Dashboard.runtimeconfig.json
+C:\Users\miche\OneDrive - Università degli Studi di Parma\Elettronica\Software\Remote_Dashborard\WinFormsApp1\bin\Debug\netcoreapp3.1\Dashboard.runtimeconfig.dev.json
+C:\Users\miche\OneDrive - Università degli Studi di Parma\Elettronica\Software\Remote_Dashborard\WinFormsApp1\bin\Debug\netcoreapp3.1\Dashboard.dll
+C:\Users\miche\OneDrive - Università degli Studi di Parma\Elettronica\Software\Remote_Dashborard\WinFormsApp1\bin\Debug\netcoreapp3.1\Dashboard.pdb
+C:\Users\miche\OneDrive - Università degli Studi di Parma\Elettronica\Software\Remote_Dashborard\WinFormsApp1\obj\Debug\netcoreapp3.1\Dashboard.csproj.AssemblyReference.cache
+C:\Users\miche\OneDrive - Università degli Studi di Parma\Elettronica\Software\Remote_Dashborard\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\Users\miche\OneDrive - Università degli Studi di Parma\Elettronica\Software\Remote_Dashborard\WinFormsApp1\obj\Debug\netcoreapp3.1\Dashboard.csproj.GenerateResource.cache
+C:\Users\miche\OneDrive - Università degli Studi di Parma\Elettronica\Software\Remote_Dashborard\WinFormsApp1\obj\Debug\netcoreapp3.1\Dashboard.AssemblyInfoInputs.cache
+C:\Users\miche\OneDrive - Università degli Studi di Parma\Elettronica\Software\Remote_Dashborard\WinFormsApp1\obj\Debug\netcoreapp3.1\Dashboard.AssemblyInfo.cs
+C:\Users\miche\OneDrive - Università degli Studi di Parma\Elettronica\Software\Remote_Dashborard\WinFormsApp1\obj\Debug\netcoreapp3.1\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\miche\OneDrive - Università degli Studi di Parma\Elettronica\Software\Remote_Dashborard\WinFormsApp1\obj\Debug\netcoreapp3.1\Dashboard.dll
+C:\Users\miche\OneDrive - Università degli Studi di Parma\Elettronica\Software\Remote_Dashborard\WinFormsApp1\obj\Debug\netcoreapp3.1\Dashboard.pdb
+C:\Users\miche\OneDrive - Università degli Studi di Parma\Elettronica\Software\Remote_Dashborard\WinFormsApp1\obj\Debug\netcoreapp3.1\Dashboard.genruntimeconfig.cache
+C:\Users\miche\OneDrive - Università degli Studi di Parma\General\2021\Reparti\Elettronica\Software\Remote_Dashborard\WinFormsApp1\bin\Debug\netcoreapp3.1\Dashboard.exe
+C:\Users\miche\OneDrive - Università degli Studi di Parma\General\2021\Reparti\Elettronica\Software\Remote_Dashborard\WinFormsApp1\bin\Debug\netcoreapp3.1\Dashboard.deps.json
+C:\Users\miche\OneDrive - Università degli Studi di Parma\General\2021\Reparti\Elettronica\Software\Remote_Dashborard\WinFormsApp1\bin\Debug\netcoreapp3.1\Dashboard.runtimeconfig.json
+C:\Users\miche\OneDrive - Università degli Studi di Parma\General\2021\Reparti\Elettronica\Software\Remote_Dashborard\WinFormsApp1\bin\Debug\netcoreapp3.1\Dashboard.runtimeconfig.dev.json
+C:\Users\miche\OneDrive - Università degli Studi di Parma\General\2021\Reparti\Elettronica\Software\Remote_Dashborard\WinFormsApp1\bin\Debug\netcoreapp3.1\Dashboard.dll
+C:\Users\miche\OneDrive - Università degli Studi di Parma\General\2021\Reparti\Elettronica\Software\Remote_Dashborard\WinFormsApp1\bin\Debug\netcoreapp3.1\Dashboard.pdb
+C:\Users\miche\OneDrive - Università degli Studi di Parma\General\2021\Reparti\Elettronica\Software\Remote_Dashborard\WinFormsApp1\obj\Debug\netcoreapp3.1\Dashboard.csproj.AssemblyReference.cache
+C:\Users\miche\OneDrive - Università degli Studi di Parma\General\2021\Reparti\Elettronica\Software\Remote_Dashborard\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\Users\miche\OneDrive - Università degli Studi di Parma\General\2021\Reparti\Elettronica\Software\Remote_Dashborard\WinFormsApp1\obj\Debug\netcoreapp3.1\Dashboard.csproj.GenerateResource.cache
+C:\Users\miche\OneDrive - Università degli Studi di Parma\General\2021\Reparti\Elettronica\Software\Remote_Dashborard\WinFormsApp1\obj\Debug\netcoreapp3.1\Dashboard.AssemblyInfoInputs.cache
+C:\Users\miche\OneDrive - Università degli Studi di Parma\General\2021\Reparti\Elettronica\Software\Remote_Dashborard\WinFormsApp1\obj\Debug\netcoreapp3.1\Dashboard.AssemblyInfo.cs
+C:\Users\miche\OneDrive - Università degli Studi di Parma\General\2021\Reparti\Elettronica\Software\Remote_Dashborard\WinFormsApp1\obj\Debug\netcoreapp3.1\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\miche\OneDrive - Università degli Studi di Parma\General\2021\Reparti\Elettronica\Software\Remote_Dashborard\WinFormsApp1\obj\Debug\netcoreapp3.1\Dashboard.dll
+C:\Users\miche\OneDrive - Università degli Studi di Parma\General\2021\Reparti\Elettronica\Software\Remote_Dashborard\WinFormsApp1\obj\Debug\netcoreapp3.1\Dashboard.pdb
+C:\Users\miche\OneDrive - Università degli Studi di Parma\General\2021\Reparti\Elettronica\Software\Remote_Dashborard\WinFormsApp1\obj\Debug\netcoreapp3.1\Dashboard.genruntimeconfig.cache
